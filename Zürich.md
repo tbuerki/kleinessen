@@ -4,9 +4,9 @@ title: Zürich
 nav_order: 2
 ---
 
-Hier findest du empfehlenswerte Restaurants, Läden und Produzent:innen aus der Region Zürich, die mit ihren Projekten nachhaltiges Essen unterstützen.
+Hier findest du empfehlenswerte Restaurants, Läden und Produzent:innen aus der **Region Zürich**, die mit ihren Projekten nachhaltiges Essen unterstützen.
 
-## Restaurants
+# Restaurants
 
 ### Lotti
 
@@ -21,7 +21,8 @@ Nachhaltige Crêpes und Galettes aus lokalen Zutaten im Bei Babette
 *Adresse: Bertastrasse 16, 8003 Zürich*
 
 
-## Läden
+
+# Läden
 
 ### Berg & Tal
 
@@ -30,11 +31,13 @@ Nachhaltige Produkte von Kleinproduzent:innen aus der Region und dem benachbarte
 *Adresse: Niederdorfstrasse 3, 8001 Zürich*
 
 
-## Produzent:innen
+
+# Produzent:innen
 
 ### fyn foods
 
 Hummus aus Schweizer Kichererbsen vom ETH Startup [fyn foods](https://www.fynfoods.ch/)
+
 
 
 ## Feedback?
