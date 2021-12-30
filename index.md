@@ -1,11 +1,17 @@
 ---
 layout: default
-title: Einleitung
+title: Willkommen
 nav_order: 1
 ---
 
 
-## Welcome to GitHub Pages
+## Willkommen bei *kleinEssen*
+
+Suchst du kleine nachhaltige Restaurants, Geschäfte mit Lebensmitteln von Kleinproduzent:innen oder innovative und nachhaltige Produkte von kleinen Projekten? Dann bist du bei **kleinEssen** richtig!
+
+Entdecke lokal produzierte [Lebensmittel](Zürich.html#produzentinnen), nachhaltige [Restaurants](Zürich.html#restaurants) und familiäre [Einkaufsmöglichkeiten](Zürich.html#läden) in der Region Zürich.
+
+
 
 You can use the [editor on GitHub](https://github.com/tbuerki/kleinessen/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

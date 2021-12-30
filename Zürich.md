@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Zurich
+title: Zürich
 nav_order: 2
 ---
 
+Hier findest du empfehlenswerte Restaurants, Läden und Produzent:innen aus der Region Zürich, die mit ihren Projekten nachhaltiges Essen unterstützen.
 
 ## Restaurants
 
@@ -11,22 +12,22 @@ nav_order: 2
 
 Feines regionales Essen im [Lotti](https://www.lotti-lokal.ch/) nur einen Katzensprung vom HB entfernt
 
-*Adresse: Werdmühleplatz 3, 8001 Zurich*
+*Adresse: Werdmühleplatz 3, 8001 Zürich*
 
 ### Bei Babette
 
-Nachhaltige Crepes und Galettes im Bei Babette
+Nachhaltige Crêpes und Galettes aus lokalen Zutaten im Bei Babette
 
-*Adresse: Bertastrasse 16, 8003 Zurich*
+*Adresse: Bertastrasse 16, 8003 Zürich*
 
 
-## Laden
+## Läden
 
 ### Berg & Tal
 
 Nachhaltige Produkte von Kleinproduzent:innen aus der Region und dem benachbarten Ausland im [Berg & Tal](https://www.berg-tal.ch/)
 
-*Adresse: Niederdorfstrasse 3, 8001 Zurich*
+*Adresse: Niederdorfstrasse 3, 8001 Zürich*
 
 
 ## Produzent:innen
@@ -38,4 +39,4 @@ Hummus aus Schweizer Kichererbsen vom ETH Startup [fyn foods](https://www.fynfoo
 
 ## Feedback?
 
-Kennst du weitere Restaurants, Laden oder Produzent:innen aus der Region, die auch hier aufgelistet werden sollten? Dann schreibe uns eine Email unter idee@kleinessen.ch
+Kennst du weitere Restaurants, Läden oder Produzent:innen aus der Region, die auch hier aufgelistet werden sollten? Dann schreibe eine Email an idee@kleinessen.ch
