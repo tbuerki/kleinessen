@@ -9,7 +9,7 @@ nav_order: 1
 
 Suchst du kleine nachhaltige Restaurants, Geschäfte mit Lebensmitteln von Kleinproduzent:innen oder innovative und nachhaltige Produkte von kleinen Projekten? Dann bist du bei **kleinEssen** richtig!
 
-Entdecke lokal produzierte [Lebensmittel](Zürich.html#produzentinnen), nachhaltige [Restaurants](Zürich.html#restaurants) und familiäre [Einkaufsmöglichkeiten](Zürich.html#läden) in der Region Zürich.
+Entdecke lokal produzierte [Lebensmittel](https://www.kleinessen.ch/Zürich.html#produzentinnen), nachhaltige [Restaurants](https://www.kleinessen.ch/Zürich.html#restaurants) und familiäre [Einkaufsmöglichkeiten](https://www.kleinessen.ch/Zürich.html#läden) in der Region Zürich.
 
 
 
