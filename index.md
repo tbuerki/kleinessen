@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 
-## Willkommen bei *kleinEssen*
+# Willkommen bei *kleinEssen*
 
 Suchst du kleine nachhaltige Restaurants, Geschäfte mit Lebensmitteln von Kleinproduzent:innen oder innovative und nachhaltige Produkte von kleinen Projekten? Dann bist du bei **kleinEssen** richtig!
 

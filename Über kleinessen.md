@@ -6,7 +6,7 @@ nav_order: 3
 
 ## Was ist *kleinEssen*?
 
-Auf **kleinEssen** findest du Infos ueber kleine Geschäfte, eigenständige Restaurants und Kleinproduzent:innen, die nachhaltige Produkte verkaufen.
+Auf **kleinEssen** findest du Infos über kleine Geschäfte, eigenständige Restaurants und Kleinproduzent:innen, die nachhaltige Produkte verkaufen.
 
 ## Warum gibt es *kleinEssen*?
 
